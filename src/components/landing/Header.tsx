@@ -22,7 +22,7 @@ function Header() {
             height={32}
             className="w-11"
           />
-          <span className="font-semibold text-lg">DentWise</span>
+          <span className="font-semibold text-lg">Dentime</span>
         </Link>
 
         {/* NAV LINKS - visible on medium+ screens */}
